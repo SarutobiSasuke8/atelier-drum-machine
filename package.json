@@ -1,0 +1,16 @@
+{
+  "name": "atelier-drum-machine",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Browser drum machine synthesised with the Web Audio API.",
+  "type": "module",
+  "license": "MIT",
+  "engines": {
+    "node": ">=20"
+  },
+  "scripts": {
+    "test": "node --test test/*.js",
+    "serve": "node serve.mjs",
+    "dev": "node serve.mjs"
+  }
+}

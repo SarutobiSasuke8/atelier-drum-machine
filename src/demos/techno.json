@@ -1,0 +1,516 @@
+{
+  "format": "atelier-pattern",
+  "version": 1,
+  "name": "Techno",
+  "bpm": 132,
+  "swing": 0.04,
+  "chain": [
+    "A",
+    "A",
+    "A",
+    "B"
+  ],
+  "bars": {
+    "A": {
+      "lanes": {
+        "kick": [
+          1,
+          0,
+          0.28,
+          0,
+          1,
+          0,
+          0.24,
+          0,
+          1,
+          0,
+          0.3,
+          0,
+          1,
+          0,
+          0.42,
+          0
+        ],
+        "hat": [
+          0.58,
+          0.26,
+          0.5,
+          0.24,
+          0.62,
+          0.28,
+          0.48,
+          0.26,
+          0.58,
+          0.24,
+          0.5,
+          0.3,
+          0.66,
+          0.28,
+          0.46,
+          0.32
+        ],
+        "hatOpen": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0.48,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "clap": [
+          0,
+          0,
+          0,
+          0,
+          0.82,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0.88,
+          0,
+          0,
+          0
+        ],
+        "rim": [
+          0,
+          0,
+          0,
+          0.55,
+          0,
+          0,
+          0.32,
+          0,
+          0,
+          0,
+          0,
+          0.62,
+          0,
+          0,
+          0.4,
+          0
+        ],
+        "shaker": [
+          0.16,
+          0.16,
+          0.16,
+          0.16,
+          0.16,
+          0.16,
+          0.16,
+          0.16,
+          0.16,
+          0.16,
+          0.16,
+          0.16,
+          0.16,
+          0.16,
+          0.16,
+          0.16
+        ],
+        "tomLow": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0.36,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0.48
+        ],
+        "perc": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0.3,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0.34,
+          0,
+          0
+        ]
+      },
+      "bass": [
+        {
+          "note": "E",
+          "octave": 2,
+          "velocity": 0.9,
+          "accent": true,
+          "slide": false
+        },
+        {
+          "note": "E",
+          "octave": 2,
+          "velocity": 0.62,
+          "accent": false,
+          "slide": false
+        },
+        {
+          "note": "E",
+          "octave": 2,
+          "velocity": 0.62,
+          "accent": false,
+          "slide": false
+        },
+        {
+          "note": "E",
+          "octave": 2,
+          "velocity": 0.62,
+          "accent": false,
+          "slide": true
+        },
+        {
+          "note": "E",
+          "octave": 2,
+          "velocity": 0.9,
+          "accent": true,
+          "slide": false
+        },
+        {
+          "note": "E",
+          "octave": 2,
+          "velocity": 0.62,
+          "accent": false,
+          "slide": false
+        },
+        {
+          "note": "E",
+          "octave": 2,
+          "velocity": 0.62,
+          "accent": false,
+          "slide": false
+        },
+        {
+          "note": "E",
+          "octave": 2,
+          "velocity": 0.62,
+          "accent": false,
+          "slide": true
+        },
+        {
+          "note": "E",
+          "octave": 2,
+          "velocity": 0.9,
+          "accent": true,
+          "slide": false
+        },
+        {
+          "note": "E",
+          "octave": 2,
+          "velocity": 0.62,
+          "accent": false,
+          "slide": false
+        },
+        {
+          "note": "E",
+          "octave": 2,
+          "velocity": 0.62,
+          "accent": false,
+          "slide": false
+        },
+        {
+          "note": "E",
+          "octave": 2,
+          "velocity": 0.62,
+          "accent": false,
+          "slide": true
+        },
+        {
+          "note": "E",
+          "octave": 2,
+          "velocity": 0.9,
+          "accent": true,
+          "slide": false
+        },
+        {
+          "note": "E",
+          "octave": 2,
+          "velocity": 0.62,
+          "accent": false,
+          "slide": false
+        },
+        {
+          "note": "E",
+          "octave": 2,
+          "velocity": 0.62,
+          "accent": false,
+          "slide": false
+        },
+        {
+          "note": "E",
+          "octave": 2,
+          "velocity": 0.62,
+          "accent": false,
+          "slide": true
+        }
+      ]
+    },
+    "B": {
+      "lanes": {
+        "kick": [
+          1,
+          0,
+          0,
+          0,
+          1,
+          0,
+          0,
+          0,
+          1,
+          0,
+          0.7,
+          0,
+          1,
+          0,
+          0.8,
+          0
+        ],
+        "hat": [
+          0.4,
+          0.4,
+          0.4,
+          0.4,
+          0.4,
+          0.4,
+          0.4,
+          0.4,
+          0.4,
+          0.4,
+          0.4,
+          0.4,
+          0.4,
+          0.4,
+          0.4,
+          0.4
+        ],
+        "clap": [
+          0,
+          0,
+          0,
+          0,
+          0.7,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0.4,
+          0.45,
+          0.6,
+          0.8
+        ],
+        "crash": [
+          0.4,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "ride": [
+          0,
+          0,
+          0.35,
+          0,
+          0,
+          0,
+          0.4,
+          0,
+          0,
+          0,
+          0.45,
+          0,
+          0,
+          0,
+          0.5,
+          0
+        ],
+        "tomHigh": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0.55,
+          0.7
+        ],
+        "cowbell": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0.4,
+          0,
+          0,
+          0.32,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      "bass": [
+        {
+          "note": "E",
+          "octave": 2,
+          "velocity": 0.9,
+          "accent": true,
+          "slide": false
+        },
+        {
+          "note": "E",
+          "octave": 2,
+          "velocity": 0.6,
+          "accent": false,
+          "slide": true
+        },
+        {
+          "note": "G",
+          "octave": 2,
+          "velocity": 0.7,
+          "accent": false,
+          "slide": false
+        },
+        null,
+        {
+          "note": "E",
+          "octave": 2,
+          "velocity": 0.85,
+          "accent": true,
+          "slide": false
+        },
+        null,
+        {
+          "note": "D",
+          "octave": 2,
+          "velocity": 0.6,
+          "accent": false,
+          "slide": true
+        },
+        {
+          "note": "E",
+          "octave": 2,
+          "velocity": 0.75,
+          "accent": false,
+          "slide": false
+        },
+        {
+          "note": "C",
+          "octave": 2,
+          "velocity": 0.8,
+          "accent": true,
+          "slide": false
+        },
+        {
+          "note": "C",
+          "octave": 2,
+          "velocity": 0.55,
+          "accent": false,
+          "slide": true
+        },
+        null,
+        {
+          "note": "D",
+          "octave": 2,
+          "velocity": 0.6,
+          "accent": false,
+          "slide": false
+        },
+        {
+          "note": "E",
+          "octave": 1,
+          "velocity": 0.9,
+          "accent": true,
+          "slide": false
+        },
+        null,
+        null,
+        {
+          "note": "E",
+          "octave": 2,
+          "velocity": 0.5,
+          "accent": false,
+          "slide": false
+        }
+      ]
+    }
+  },
+  "kit": {
+    "master": {
+      "drive": 0.28,
+      "compress": 0.5,
+      "filter": 0.78,
+      "delay": 0.08,
+      "reverb": 0.1
+    },
+    "voices": {
+      "hat": {
+        "level": 0.5,
+        "decay": 0.22
+      },
+      "kick": {
+        "decay": 0.36,
+        "punch": 0.7
+      }
+    },
+    "bass": {
+      "cutoff": 0.22,
+      "resonance": 0.48,
+      "env": 0.4,
+      "decay": 0.28
+    }
+  }
+}

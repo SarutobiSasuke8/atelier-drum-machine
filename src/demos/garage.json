@@ -1,0 +1,421 @@
+{
+  "format": "atelier-pattern",
+  "version": 1,
+  "name": "Garage",
+  "bpm": 132,
+  "swing": 0.46,
+  "chain": [
+    "A",
+    "B",
+    "A",
+    "A"
+  ],
+  "bars": {
+    "A": {
+      "lanes": {
+        "kick": [
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0.72,
+          0,
+          0,
+          0.95,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "snare": [
+          0,
+          0,
+          0,
+          0,
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0.98,
+          0,
+          0,
+          0
+        ],
+        "hat": [
+          0,
+          0,
+          0.58,
+          0,
+          0,
+          0.36,
+          0.66,
+          0,
+          0,
+          0.3,
+          0,
+          0.42,
+          0,
+          0,
+          0.62,
+          0
+        ],
+        "hatOpen": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0.55
+        ],
+        "shaker": [
+          0.3,
+          0.18,
+          0.26,
+          0.16,
+          0.28,
+          0.18,
+          0.32,
+          0.16,
+          0.26,
+          0.16,
+          0.3,
+          0.2,
+          0.28,
+          0.16,
+          0.24,
+          0.2
+        ],
+        "rim": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0.28,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "clave": [
+          0,
+          0,
+          0,
+          0.22,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0.24,
+          0,
+          0
+        ]
+      },
+      "bass": [
+        {
+          "note": "F",
+          "octave": 2,
+          "velocity": 0.78,
+          "accent": false,
+          "slide": false
+        },
+        null,
+        null,
+        {
+          "note": "F",
+          "octave": 2,
+          "velocity": 0.4,
+          "accent": false,
+          "slide": false
+        },
+        null,
+        null,
+        null,
+        {
+          "note": "C",
+          "octave": 2,
+          "velocity": 0.55,
+          "accent": false,
+          "slide": true
+        },
+        null,
+        null,
+        {
+          "note": "D#",
+          "octave": 2,
+          "velocity": 0.72,
+          "accent": false,
+          "slide": false
+        },
+        null,
+        {
+          "note": "F",
+          "octave": 1,
+          "velocity": 0.5,
+          "accent": false,
+          "slide": false
+        },
+        null,
+        null,
+        {
+          "note": "G",
+          "octave": 1,
+          "velocity": 0.42,
+          "accent": false,
+          "slide": true
+        }
+      ]
+    },
+    "B": {
+      "lanes": {
+        "kick": [
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0.4,
+          0,
+          0,
+          0,
+          0.9,
+          0,
+          0,
+          0,
+          0.5,
+          0
+        ],
+        "snare": [
+          0,
+          0,
+          0,
+          0,
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          0,
+          0,
+          0.35
+        ],
+        "hat": [
+          0,
+          0,
+          0.5,
+          0,
+          0.3,
+          0,
+          0,
+          0.55,
+          0,
+          0,
+          0,
+          0.48,
+          0,
+          0,
+          0.6,
+          0
+        ],
+        "hatOpen": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0.42,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "shaker": [
+          0.2,
+          0.2,
+          0.2,
+          0.2,
+          0.2,
+          0.2,
+          0.2,
+          0.2,
+          0.2,
+          0.2,
+          0.2,
+          0.2,
+          0.2,
+          0.2,
+          0.2,
+          0.2
+        ],
+        "tamb": [
+          0,
+          0,
+          0,
+          0,
+          0.25,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0.3,
+          0,
+          0,
+          0
+        ],
+        "crash": [
+          0.25,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      "bass": [
+        {
+          "note": "F",
+          "octave": 2,
+          "velocity": 0.8,
+          "accent": true,
+          "slide": false
+        },
+        null,
+        {
+          "note": "G",
+          "octave": 2,
+          "velocity": 0.45,
+          "accent": false,
+          "slide": true
+        },
+        null,
+        {
+          "note": "A#",
+          "octave": 2,
+          "velocity": 0.66,
+          "accent": false,
+          "slide": false
+        },
+        null,
+        null,
+        null,
+        {
+          "note": "C",
+          "octave": 3,
+          "velocity": 0.5,
+          "accent": false,
+          "slide": false
+        },
+        null,
+        {
+          "note": "A#",
+          "octave": 2,
+          "velocity": 0.6,
+          "accent": false,
+          "slide": true
+        },
+        null,
+        {
+          "note": "G",
+          "octave": 2,
+          "velocity": 0.55,
+          "accent": false,
+          "slide": false
+        },
+        null,
+        {
+          "note": "F",
+          "octave": 2,
+          "velocity": 0.7,
+          "accent": false,
+          "slide": false
+        },
+        null
+      ]
+    }
+  },
+  "kit": {
+    "master": {
+      "swing": 0,
+      "reverb": 0.2,
+      "delay": 0.14,
+      "delayDivision": "1/8d",
+      "filter": 0.86
+    },
+    "voices": {
+      "shaker": {
+        "level": 0.48,
+        "decay": 0.3
+      },
+      "hat": {
+        "decay": 0.34
+      }
+    },
+    "sends": {
+      "snare": {
+        "reverb": 0.16
+      },
+      "shaker": {
+        "reverb": 0.08
+      }
+    },
+    "bass": {
+      "cutoff": 0.34,
+      "resonance": 0.4,
+      "decay": 0.48,
+      "level": 0.5
+    }
+  }
+}
