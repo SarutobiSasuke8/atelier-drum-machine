@@ -1,0 +1,363 @@
+{
+  "format": "atelier-pattern",
+  "version": 1,
+  "name": "Boom Bap",
+  "bpm": 92,
+  "swing": 0.58,
+  "chain": [
+    "A",
+    "A",
+    "B",
+    "A"
+  ],
+  "bars": {
+    "A": {
+      "lanes": {
+        "kick": [
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0.82,
+          0,
+          0,
+          0,
+          0.96,
+          0,
+          0,
+          0.42,
+          0,
+          0
+        ],
+        "snare": [
+          0,
+          0,
+          0,
+          0,
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          0,
+          0.22,
+          0
+        ],
+        "hat": [
+          0.7,
+          0,
+          0.42,
+          0,
+          0.66,
+          0,
+          0.48,
+          0,
+          0.64,
+          0,
+          0.4,
+          0,
+          0.7,
+          0,
+          0.38,
+          0.28
+        ],
+        "shaker": [
+          0,
+          0.14,
+          0,
+          0.14,
+          0,
+          0.14,
+          0,
+          0.14,
+          0,
+          0.14,
+          0,
+          0.14,
+          0,
+          0.14,
+          0,
+          0.14
+        ],
+        "rim": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0.3,
+          0,
+          0,
+          0,
+          0
+        ],
+        "tamb": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0.22,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0.18,
+          0
+        ]
+      },
+      "bass": [
+        {
+          "note": "C",
+          "octave": 2,
+          "velocity": 0.75,
+          "accent": false,
+          "slide": false
+        },
+        null,
+        null,
+        null,
+        null,
+        null,
+        {
+          "note": "G",
+          "octave": 1,
+          "velocity": 0.55,
+          "accent": false,
+          "slide": false
+        },
+        null,
+        null,
+        null,
+        {
+          "note": "A",
+          "octave": 1,
+          "velocity": 0.62,
+          "accent": false,
+          "slide": false
+        },
+        null,
+        null,
+        {
+          "note": "C",
+          "octave": 2,
+          "velocity": 0.4,
+          "accent": false,
+          "slide": false
+        },
+        null,
+        null
+      ]
+    },
+    "B": {
+      "lanes": {
+        "kick": [
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0.7,
+          0,
+          0,
+          0.85,
+          0,
+          0,
+          0,
+          0
+        ],
+        "snare": [
+          0,
+          0,
+          0,
+          0,
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0.95,
+          0.35,
+          0,
+          0.5
+        ],
+        "hat": [
+          0.55,
+          0,
+          0,
+          0.3,
+          0.6,
+          0,
+          0,
+          0.35,
+          0.5,
+          0,
+          0,
+          0.4,
+          0.65,
+          0,
+          0,
+          0.45
+        ],
+        "crash": [
+          0.28,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "tomLow": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0.45,
+          0.6
+        ],
+        "clave": [
+          0,
+          0,
+          0.25,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0.22,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      "bass": [
+        {
+          "note": "C",
+          "octave": 2,
+          "velocity": 0.7,
+          "accent": false,
+          "slide": false
+        },
+        null,
+        null,
+        {
+          "note": "D",
+          "octave": 2,
+          "velocity": 0.35,
+          "accent": false,
+          "slide": true
+        },
+        {
+          "note": "D#",
+          "octave": 2,
+          "velocity": 0.5,
+          "accent": false,
+          "slide": false
+        },
+        null,
+        null,
+        null,
+        {
+          "note": "F",
+          "octave": 2,
+          "velocity": 0.62,
+          "accent": false,
+          "slide": false
+        },
+        null,
+        null,
+        {
+          "note": "G",
+          "octave": 1,
+          "velocity": 0.48,
+          "accent": false,
+          "slide": false
+        },
+        null,
+        null,
+        {
+          "note": "C",
+          "octave": 2,
+          "velocity": 0.55,
+          "accent": false,
+          "slide": false
+        },
+        null
+      ]
+    }
+  },
+  "kit": {
+    "master": {
+      "drive": 0.2,
+      "compress": 0.35,
+      "reverb": 0.22,
+      "filter": 0.8,
+      "delay": 0.05
+    },
+    "voices": {
+      "snare": {
+        "tune": 0.46,
+        "decay": 0.5,
+        "drive": 0.36
+      },
+      "kick": {
+        "key": "G1",
+        "decay": 0.5
+      }
+    },
+    "sends": {
+      "snare": {
+        "reverb": 0.22
+      },
+      "hat": {
+        "reverb": 0.1
+      }
+    }
+  }
+}

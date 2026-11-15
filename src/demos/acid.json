@@ -1,0 +1,431 @@
+{
+  "format": "atelier-pattern",
+  "version": 1,
+  "name": "Acid",
+  "bpm": 126,
+  "swing": 0.08,
+  "chain": [
+    "A",
+    "A",
+    "B",
+    "A"
+  ],
+  "bars": {
+    "A": {
+      "lanes": {
+        "kick": [
+          1,
+          0,
+          0,
+          0,
+          1,
+          0,
+          0,
+          0,
+          1,
+          0,
+          0,
+          0,
+          1,
+          0,
+          0,
+          0
+        ],
+        "hat": [
+          0,
+          0,
+          0.55,
+          0,
+          0,
+          0,
+          0.5,
+          0,
+          0,
+          0,
+          0.58,
+          0,
+          0,
+          0,
+          0.48,
+          0
+        ],
+        "hatOpen": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0.4
+        ],
+        "clap": [
+          0,
+          0,
+          0,
+          0,
+          0.8,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0.84,
+          0,
+          0,
+          0
+        ],
+        "rim": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0.28,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0.32,
+          0
+        ],
+        "shaker": [
+          0,
+          0.12,
+          0,
+          0.12,
+          0,
+          0.12,
+          0,
+          0.12,
+          0,
+          0.12,
+          0,
+          0.12,
+          0,
+          0.12,
+          0,
+          0.12
+        ]
+      },
+      "bass": [
+        {
+          "note": "A",
+          "octave": 1,
+          "velocity": 0.92,
+          "accent": true,
+          "slide": false
+        },
+        {
+          "note": "A",
+          "octave": 1,
+          "velocity": 0.7,
+          "accent": false,
+          "slide": true
+        },
+        {
+          "note": "C",
+          "octave": 2,
+          "velocity": 0.78,
+          "accent": false,
+          "slide": true
+        },
+        {
+          "note": "C",
+          "octave": 2,
+          "velocity": 0.6,
+          "accent": false,
+          "slide": false
+        },
+        null,
+        {
+          "note": "A",
+          "octave": 1,
+          "velocity": 0.74,
+          "accent": false,
+          "slide": false
+        },
+        null,
+        {
+          "note": "G",
+          "octave": 1,
+          "velocity": 0.86,
+          "accent": true,
+          "slide": false
+        },
+        {
+          "note": "A",
+          "octave": 1,
+          "velocity": 0.8,
+          "accent": false,
+          "slide": false
+        },
+        null,
+        {
+          "note": "C",
+          "octave": 2,
+          "velocity": 0.7,
+          "accent": false,
+          "slide": true
+        },
+        {
+          "note": "D",
+          "octave": 2,
+          "velocity": 0.82,
+          "accent": true,
+          "slide": false
+        },
+        null,
+        {
+          "note": "C",
+          "octave": 2,
+          "velocity": 0.66,
+          "accent": false,
+          "slide": true
+        },
+        {
+          "note": "A",
+          "octave": 1,
+          "velocity": 0.6,
+          "accent": false,
+          "slide": true
+        },
+        {
+          "note": "G",
+          "octave": 1,
+          "velocity": 0.88,
+          "accent": true,
+          "slide": false
+        }
+      ]
+    },
+    "B": {
+      "lanes": {
+        "kick": [
+          1,
+          0,
+          0,
+          0,
+          1,
+          0,
+          0,
+          0,
+          0.9,
+          0,
+          0,
+          0,
+          1,
+          0,
+          0.45,
+          0
+        ],
+        "hat": [
+          0.4,
+          0.22,
+          0.48,
+          0.2,
+          0.5,
+          0.24,
+          0.42,
+          0.22,
+          0.46,
+          0.2,
+          0.5,
+          0.28,
+          0.55,
+          0.24,
+          0.4,
+          0.3
+        ],
+        "clap": [
+          0,
+          0,
+          0,
+          0,
+          0.75,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0.8,
+          0,
+          0,
+          0.4
+        ],
+        "crash": [
+          0.33,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "cowbell": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0.36,
+          0,
+          0,
+          0.28,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      "bass": [
+        {
+          "note": "A",
+          "octave": 1,
+          "velocity": 0.9,
+          "accent": true,
+          "slide": false
+        },
+        null,
+        {
+          "note": "C",
+          "octave": 2,
+          "velocity": 0.72,
+          "accent": false,
+          "slide": true
+        },
+        {
+          "note": "D#",
+          "octave": 2,
+          "velocity": 0.8,
+          "accent": true,
+          "slide": false
+        },
+        {
+          "note": "D#",
+          "octave": 2,
+          "velocity": 0.55,
+          "accent": false,
+          "slide": true
+        },
+        {
+          "note": "C",
+          "octave": 2,
+          "velocity": 0.6,
+          "accent": false,
+          "slide": false
+        },
+        null,
+        {
+          "note": "A#",
+          "octave": 1,
+          "velocity": 0.75,
+          "accent": true,
+          "slide": false
+        },
+        {
+          "note": "A",
+          "octave": 1,
+          "velocity": 0.85,
+          "accent": false,
+          "slide": false
+        },
+        {
+          "note": "A",
+          "octave": 1,
+          "velocity": 0.5,
+          "accent": false,
+          "slide": true
+        },
+        {
+          "note": "G",
+          "octave": 1,
+          "velocity": 0.7,
+          "accent": false,
+          "slide": true
+        },
+        {
+          "note": "A",
+          "octave": 1,
+          "velocity": 0.66,
+          "accent": false,
+          "slide": false
+        },
+        {
+          "note": "C",
+          "octave": 2,
+          "velocity": 0.8,
+          "accent": true,
+          "slide": false
+        },
+        null,
+        {
+          "note": "D",
+          "octave": 2,
+          "velocity": 0.6,
+          "accent": false,
+          "slide": true
+        },
+        {
+          "note": "E",
+          "octave": 2,
+          "velocity": 0.84,
+          "accent": true,
+          "slide": false
+        }
+      ]
+    }
+  },
+  "kit": {
+    "bass": {
+      "wave": "saw",
+      "cutoff": 0.2,
+      "resonance": 0.82,
+      "env": 0.72,
+      "decay": 0.36,
+      "level": 0.62,
+      "drive": 0.28
+    },
+    "master": {
+      "drive": 0.26,
+      "compress": 0.42,
+      "delay": 0.16,
+      "delayDivision": "1/8",
+      "reverb": 0.12,
+      "filter": 0.84
+    },
+    "sends": {
+      "clap": {
+        "delay": 0.12
+      }
+    }
+  }
+}
