@@ -2,13 +2,23 @@
 
 A single-page drum machine that runs in the browser. Every sound is synthesised with the Web Audio API: oscillators, noise and envelopes. There is no sample library, no framework and no build step.
 
+## Install
+
+You need Node.js 20 or newer. There are no dependencies to install.
+
+```bash
+git clone https://github.com/SarutobiSasuke8/atelier-drum-machine.git
+cd atelier-drum-machine
+npm test
+```
+
 ## Play
 
 ```bash
 npm run serve
 ```
 
-Open the page the server prints. Press **Play** or hit the space bar. The transport loops a chain of 16-step bars.
+The server listens on port 8080, or the port set in `PORT`. Open the page the server prints. Use localhost or HTTPS so the browser offers the Web MIDI permission prompt. Press **Play** or hit the space bar. The transport loops a chain of 16-step bars.
 
 - **Pads.** Sixteen pads in a 4×4 grid. The top of a pad is louder than the bottom. Pads light when they fire.
 - **Keyboard.** `1 2 3 4`, `Q W E R`, `A S D F`, `Z X C V`, matching the pad grid from the top left. Hold Shift for a softer hit. Space starts and stops.
