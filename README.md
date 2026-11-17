@@ -1,5 +1,9 @@
 # Atelier Drum Machine
 
+[![Test](https://github.com/SarutobiSasuke8/atelier-drum-machine/actions/workflows/test.yml/badge.svg)](https://github.com/SarutobiSasuke8/atelier-drum-machine/actions/workflows/test.yml)
+
+Pages URL once enabled: https://sarutobisasuke8.github.io/atelier-drum-machine/
+
 A single-page drum machine that runs in the browser. Every sound is synthesised with the Web Audio API: oscillators, noise and envelopes. There is no sample library, no framework and no build step.
 
 ## Install
